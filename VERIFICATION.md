@@ -9,29 +9,33 @@ attributed in the image; nothing contested is stated as fact.
 ## LEAD — Trump, Xi and Putin meet in Shenzhen
 
 - **Fact:** Trump, Xi and Putin met in Shenzhen on 19 Nov for the first
-  trilateral summit of the three leaders; a joint "Peace Declaration"
-  covered the UN, nuclear weapons, oil production and international law,
-  reaffirming "a nuclear war cannot be won and must never be fought".
+  trilateral summit of the three leaders; a joint Declaration toward
+  Peace covered the UN, nuclear weapons, oil production and
+  international law, reaffirming "a nuclear war cannot be won and must
+  never be fought".
 - **Sources:** NPR — https://www.wutc.org/2026-11-19/trump-xi-and-putin-meet-as-global-alliances-hang-in-the-balance ; The Times live — https://www.thetimes.com/world/asia/article/trump-xi-putin-summit-shenzhen-latest-news-ddskr7pcx
 - **Date evidence:** NPR article updated 19 Nov 2026 6:21 AM EST,
   datelined Shenzhen, 19 Nov; Kremlin published the joint declaration
   the same day.
 - **Framing:** Zelensky's "new Yalta" warning is attributed to Zelensky;
-  no carve-up is presented as fact.
+  no carve-up is presented as fact. The declaration did not address the
+  Ukraine or Iran wars — neither is presented as settled by it.
 
 ## SECOND LEAD — Gulf escalation
 
 - **Fact:** Iran said its drones targeted US Patriot air-defence systems
   at Ali Al-Salem Air Base in Kuwait (18 Nov, reported 19 Nov); Kuwait
-  said its air defences intercepted them, the first such attack on
-  Kuwait since early September. Bahrain said it intercepted another
-  Iranian attack — its fourth in six days. Qatar called the attacks a
-  "dangerous escalation". The US military said no US personnel were
-  injured in the week's Iranian attack attempts.
+  said its air defences intercepted them, with no damage reported, the
+  first such attack on Kuwait since early September. Bahrain said it
+  intercepted another Iranian attack — its fourth in six days. Qatar
+  called the attacks a "dangerous escalation". The US military said no
+  US personnel were injured in the week's Iranian attack attempts.
 - **Sources:** Reuters wire via The Leaders Online — https://theleaders-online.com/dangerous-escalation-gulf-nations-scramble-to-intercept-fire-from-iran-allies-after-us-strikes-on-qeshm-island/ ; tanker/UKMTO via Dubai Standard — https://www.dubaistandard.com/us-israel-iran-war-what-uae-residents-need-to-know-on-november-19-2026/
 - **Date evidence:** Wire datelined "KUWAIT CITY, Nov 19".
 - **Framing:** Iran's "targeted" claim is Iran's claim; Kuwait reported
-  interception. NO US casualties are claimed anywhere.
+  interception with no damage reported. Headline says "targets", not
+  "hit" — the drones were intercepted. NO US casualties are claimed
+  anywhere.
 
 ## MAINS (8)
 
@@ -43,13 +47,15 @@ attributed in the image; nothing contested is stated as fact.
 - Source: Reuters — https://www.reuters.com/world/middle-east/israel-says-it-concludes-gaza-tank-raid-2026-11-19/ (dated 19 Nov 2026).
 - Framing: the tunnel is "suspected" — Israel's description, unverified.
 
-### 2. UK pledges 1,000 cruise missiles to Ukraine
-- The UK pledged 1,000 long-range cruise missiles plus drones able to
-  fly 1,000 km as part of a £260m package, to be announced at the
-  Coalition of the Willing meeting in Berlin on 19 Nov.
-- Source: Bloomberg — https://www.threads.com/@bloombergbusiness/post/Df6ISUZDv9p (18 Nov 22:30 UTC; announcement 19 Nov).
-- Framing: NOT the separate 17 Nov UK package of 1,000+ air-defence
-  missiles (£240m) — different package, different purpose.
+### 2. UK pledges 1,000 long-range strike drones to Ukraine
+- The UK pledged more than 1,000 long-range strike drones, able to fly
+  more than 1,000 km, as part of a £260m package, announced by PM Andy
+  Burnham at the Coalition of the Willing meeting in Berlin on 19 Nov.
+- Source: GOV.UK (official announcement) — https://www.gov.uk/government/news/1000-long-range-strike-drones-announced-for-ukraine-as-prime-minister-co-chairs-coalition-of-the-willing-in-berlin (published 2026-11-18T22:30:04Z; announced at the Berlin meeting 19 Nov).
+- Framing: Bloomberg's "cruise missiles" wording is wrong — the official
+  gov.uk text (long-range strike drones) wins. NOT the separate 17 Nov
+  UK package of 1,000+ air-defence missiles (£240m) — different package,
+  different purpose.
 
 ### 3. Allies meet in Berlin to back Ukraine
 - Ukraine's European allies met in Berlin on Thursday 19 Nov in a
@@ -94,19 +100,23 @@ attributed in the image; nothing contested is stated as fact.
 - Framing: milestone confirmed/celebrated 19 Nov. NEVER imply new
   science data — no data is returning; the cause is under investigation.
 
-### 8. COP30 Day 10: farms take centre stage
-- On Day 10 (19 Nov) in Belém, COP30's theme was agriculture, food
-  systems and security; the RAIZ initiative (Resilient Agriculture
-  Investment for Net-Zero Land Degradation) was launched to restore
-  degraded farmland.
-- Source: COP30 official site, Morning Brief November 19 — https://cop30.br/en/news-about-cop30/cop30-morning-brief-november-19
-- **Conference verified:** COP30 is the 30th Conference of the Parties
-  to the UNFCCC, held 10–21 November 2026 in Belém, Brazil — confirmed
-  by UNEP (http://www.unep.org/en/unep-climate-cop30-0), USCIB citing
-  UNFCCC, and IGES. Day 10 of a 10 Nov start is 19 Nov. The 18 Nov
-  entry's "COP31 in Antalya" was the wrong conference — COP31 is a
-  later meeting, not the one running now.
-- Framing: RAIZ is a launch/announcement, not money already delivered.
+### 8. COP31 enters final stretch in Antalya
+- COP31 (31st UN Climate Change Conference) in Antalya, Türkiye entered
+  its final stretch on Thursday 19 Nov: ministers remained split over
+  the pace of a fossil-fuel phaseout, with 21 issues unresolved and new
+  draft texts due before the conference closes on Friday 20 Nov. COP31
+  President Murat Kurum and negotiations chief Chris Bowen invoked
+  Turkey's centuries-old Divan tradition to coax consensus.
+- Source: newkerala.com — https://www.newkerala.com/news/a/amid-divan-spirit-geopolitical-tensions-cast-shadow-over-247.htm (datelined Antalya, Nov 19; published 2026-11-19T14:06:07Z). Corroborated by UN News — https://news.un.org/en/story/2026/11/1168833 (21 issues unresolved; Divan session).
+- **Conference verified:** COP31 is the 31st Conference of the Parties
+  to the UNFCCC, held 9–20 November 2026 in Antalya, Türkiye (UNFCCC
+  doc FCCC/CP/2026/1). The previous version's climate main was the
+  WRONG YEAR: the farm-restoration launch it described happened on
+  19 Nov 2025, not 2026.
+- Framing: the 18-page draft cover decision (fossil-fuel transition +
+  adaptation finance ≥$120bn a year by 2035) was released Mon 16 Nov —
+  it is background only, NOT presented as a 19 Nov event. The 19 Nov
+  angle is the Divan session and the final stretch only.
 
 ## BRIEFS (28)
 
@@ -331,9 +341,10 @@ attributed in the image; nothing contested is stated as fact.
   17 Nov earnings call. Dropped.
 - **GTA VI as a second story (culture batch):** duplicate of the markets
   GTA VI launch story — ONE GTA story only.
-- **COP31 in Antalya:** the wrong conference. COP30 runs 10–21 Nov 2026
-  in Belém (verified above); COP31 is a later meeting. The image uses
-  COP30 only.
+- **Previous climate main (farm-restoration launch):** WRONG YEAR — the
+  launch it described happened on 19 Nov 2025, not 19 Nov 2026. The
+  November 2026 conference is COP31 in Antalya. Replaced with the
+  genuine COP31 final-stretch story (newkerala.com, 19 Nov).
 - **EU Russia-sanctions extension / DRC–Rwanda talks / "China runway"
   / viral Kuwait explosion video / ICSPR Gaza toll figures / Haiti
   rally / Germany–Cosco block:** rejected in the research batches as
